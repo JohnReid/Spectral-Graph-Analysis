@@ -1,0 +1,11 @@
+name: Spectral
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - igraph
+  - python-igraph
+  - numpy
+  - matplotlib
+  - seaborn
+  - pip
